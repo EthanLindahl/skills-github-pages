@@ -1,5 +1,5 @@
 ---
-title: Ethan Lindahl Data Analytics 
+title: Ethan Lindahl: Data Analytics 
 ---
 # Upcoming Works
 1. SQL Project 
