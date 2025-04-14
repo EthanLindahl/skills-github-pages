@@ -1,7 +1,7 @@
 ---
-title: Ethan Lindahl Data Analytics Portfolio
+title: Ethan Lindahl Data Analytics 
 ---
 # Upcoming Works
-1. SQL Project "Coming Soon"
-2. Capstone Project "Coming Soon"
-3. Excel Project "Coming Soon"
+1. SQL Project 
+2. Capstone Project 
+3. Excel Project 
